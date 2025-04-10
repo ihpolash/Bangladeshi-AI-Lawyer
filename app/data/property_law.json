@@ -1,0 +1,125 @@
+{
+    "name": "Property Law in Bangladesh",
+    "description": "Laws and regulations related to real estate, land ownership, property rights, and transfers in Bangladesh.",
+    "acts": [
+        {
+            "name": "The Transfer of Property Act",
+            "year": 1882,
+            "description": "Regulates the transfer of property between living persons",
+            "keywords": ["transfer", "property", "sale", "lease", "mortgage", "gift", "exchange", "immovable"],
+            "sections": [
+                {
+                    "number": "5",
+                    "title": "Transfer of Property Defined",
+                    "content": "Transfer of property means an act by which a living person conveys property, in present or in future, to one or more other living persons, or to himself, or to himself and one or more other living persons."
+                },
+                {
+                    "number": "54",
+                    "title": "Sale Defined",
+                    "content": "Sale is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised."
+                },
+                {
+                    "number": "105",
+                    "title": "Lease Defined",
+                    "content": "A lease of immovable property is a transfer of a right to enjoy such property, made for a certain time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service or any other thing of value."
+                }
+            ]
+        },
+        {
+            "name": "The Registration Act",
+            "year": 1908,
+            "description": "Governs the registration of documents related to immovable property",
+            "keywords": ["registration", "document", "deed", "property", "immovable"],
+            "sections": [
+                {
+                    "number": "17",
+                    "title": "Documents of which registration is compulsory",
+                    "content": "The following documents shall be registered if the property to which they relate is in a district in which, and if they have been executed on or after the date on which, this Act came into force."
+                }
+            ]
+        },
+        {
+            "name": "The State Acquisition and Tenancy Act",
+            "year": 1950,
+            "description": "Abolished the Zamindari system and established a direct relationship between the state and tenants",
+            "keywords": ["zamindari", "tenant", "state", "acquisition", "land"],
+            "sections": [
+                {
+                    "number": "90",
+                    "title": "Restrictions on Transfer of Land",
+                    "content": "No transfer by a raiyat of his holding or of any portion thereof shall be valid unless certain conditions are met."
+                }
+            ]
+        },
+        {
+            "name": "The Land Reform Ordinance",
+            "year": 1984,
+            "description": "Sets ceiling on land ownership and protects sharecroppers' rights",
+            "keywords": ["land", "reform", "ceiling", "sharecropper", "ownership"],
+            "sections": [
+                {
+                    "number": "4",
+                    "title": "Ceiling on Land Ownership",
+                    "content": "No family or body shall be entitled to retain any land in excess of one hundred standard bighas."
+                }
+            ]
+        },
+        {
+            "name": "The Land Development Tax Ordinance",
+            "year": 1976,
+            "description": "Regulates taxation on land ownership",
+            "keywords": ["land", "tax", "development", "ownership"],
+            "sections": []
+        },
+        {
+            "name": "The Real Estate Development and Management Act",
+            "year": 2010,
+            "description": "Regulates real estate developers and protects consumers",
+            "keywords": ["real estate", "developer", "building", "apartment", "construction"],
+            "sections": [
+                {
+                    "number": "15",
+                    "title": "Registration of Developers",
+                    "content": "No person shall engage himself in the real estate business without obtaining registration under this Act."
+                }
+            ]
+        }
+    ],
+    "precedents": [
+        {
+            "title": "Abdul Mannan v. Kulsum Begum",
+            "year": 2001,
+            "citation": "53 DLR (2001) 507",
+            "summary": "The court held that oral gifts of immovable property are valid under Muslim law but must be accompanied by delivery of possession.",
+            "keywords": ["gift", "immovable", "possession", "muslim"]
+        },
+        {
+            "title": "Nur Mohammad v. Saidul Islam",
+            "year": 2004,
+            "citation": "56 DLR (2004) 325",
+            "summary": "The court established that a bona fide purchaser without notice of a prior unregistered deed may claim protection under Section 41 of the Transfer of Property Act.",
+            "keywords": ["purchaser", "bona fide", "unregistered", "deed"]
+        },
+        {
+            "title": "Taslima Properties Ltd. v. Government of Bangladesh",
+            "year": 2012,
+            "citation": "64 DLR (2012) 129",
+            "summary": "The court clarified the requirements for real estate developers in obtaining approvals from RAJUK before selling apartments.",
+            "keywords": ["real estate", "developer", "approval", "rajuk"]
+        }
+    ],
+    "common_issues": [
+        {
+            "question": "How do I verify land ownership in Bangladesh?",
+            "answer": "To verify land ownership in Bangladesh, follow these steps: (1) Check the RS (Revisional Survey) and BS (Bangladesh Survey) records at the land office, (2) Verify the Chain of Title by examining previous sale deeds and inheritance documents, (3) Obtain a certified copy of the record of rights (Khatian/Porcha) from the AC Land Office, (4) Check for encumbrances at the Sub-Registry Office, (5) Conduct a physical inspection of the property, and (6) Consider hiring a lawyer to perform a comprehensive title search."
+        },
+        {
+            "question": "What documents are required for land registration in Bangladesh?",
+            "answer": "For land registration in Bangladesh, the following documents are typically required: (1) Original deed of sale/gift/inheritance, (2) Up-to-date record of rights (Khatian/Porcha), (3) Up-to-date land tax receipts (Khajna), (4) Mutation order if applicable, (5) Non-encumbrance certificate, (6) Identity proof of both parties (NID/passport), (7) TIN certificates of both parties, (8) Recent photographs of both parties, (9) Power of attorney (if applicable), and (10) Municipality/City Corporation holding tax receipts for urban properties."
+        },
+        {
+            "question": "What are the laws regarding tenant eviction in Bangladesh?",
+            "answer": "In Bangladesh, tenant eviction is governed by several laws including the Transfer of Property Act 1882 and specific rent control laws. A landlord can legally evict a tenant if: (1) The tenant defaults on rent payment for two consecutive months, (2) The tenant uses the property for purposes other than those agreed upon, (3) The tenant damages the property significantly, (4) The landlord requires the property for personal use (with proper notice), or (5) The tenant violates specific terms of the rental agreement. The landlord must provide proper notice (typically 30 days) and, if necessary, obtain a court order for eviction."
+        }
+    ]
+} 

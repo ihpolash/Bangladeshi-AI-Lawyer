@@ -1,0 +1,1 @@
+# Components module for AI-Lawyer Bangladesh application 

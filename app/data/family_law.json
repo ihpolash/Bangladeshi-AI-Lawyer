@@ -1,0 +1,125 @@
+{
+    "name": "Family Law in Bangladesh",
+    "description": "Laws and regulations related to family matters in Bangladesh including marriage, divorce, custody, and inheritance.",
+    "acts": [
+        {
+            "name": "The Muslim Family Laws Ordinance",
+            "year": 1961,
+            "description": "Governs marriage, divorce, maintenance and other family matters for Muslims in Bangladesh",
+            "keywords": ["muslim", "marriage", "divorce", "talaq", "maintenance", "family", "arbitration", "polygamy"],
+            "sections": [
+                {
+                    "number": "6",
+                    "title": "Polygamy",
+                    "content": "No man, during the subsistence of an existing marriage, shall contract another marriage except with the previous permission in writing of the Arbitration Council."
+                },
+                {
+                    "number": "7",
+                    "title": "Talaq",
+                    "content": "Any man who wishes to divorce his wife shall, after the pronouncement of Talaq, give the Chairman notice in writing of his having done so, and shall supply a copy thereof to the wife."
+                },
+                {
+                    "number": "9",
+                    "title": "Maintenance",
+                    "content": "If any husband fails to maintain his wife adequately, or where there are more wives than one, fails to maintain them equitably, the wife, or any of the wives, may apply to the Chairman who shall constitute an Arbitration Council to determine the matter."
+                }
+            ]
+        },
+        {
+            "name": "The Dissolution of Muslim Marriages Act",
+            "year": 1939,
+            "description": "Specifies grounds on which a Muslim woman can obtain divorce",
+            "keywords": ["dissolution", "muslim", "marriage", "divorce", "grounds", "woman", "wife"],
+            "sections": [
+                {
+                    "number": "2",
+                    "title": "Grounds for Divorce",
+                    "content": "A woman married under Muslim Law shall be entitled to obtain a decree for the dissolution of her marriage on any one or more of the following grounds..."
+                }
+            ]
+        },
+        {
+            "name": "The Hindu Marriage Act",
+            "year": 2012,
+            "description": "Regulates Hindu marriages in Bangladesh",
+            "keywords": ["hindu", "marriage", "registration", "divorce"],
+            "sections": [
+                {
+                    "number": "6",
+                    "title": "Registration of Hindu Marriage",
+                    "content": "The marriage may be registered with the Registrar of Hindu Marriages in the area where the marriage is solemnized or where the spouses reside."
+                }
+            ]
+        },
+        {
+            "name": "The Christian Marriage Act",
+            "year": 1872,
+            "description": "Regulates Christian marriages in Bangladesh",
+            "keywords": ["christian", "marriage", "church", "certificate"],
+            "sections": []
+        },
+        {
+            "name": "The Guardians and Wards Act",
+            "year": 1890,
+            "description": "Deals with appointment and declaration of guardians of children and related matters",
+            "keywords": ["guardian", "ward", "child", "custody", "minor", "welfare"],
+            "sections": [
+                {
+                    "number": "17",
+                    "title": "Matters to be considered by the Court",
+                    "content": "In appointing or declaring the guardian of a minor, the Court shall, subject to the provisions of this section, be guided by what, consistently with the law to which the minor is subject, appears in the circumstances to be for the welfare of the minor."
+                }
+            ]
+        },
+        {
+            "name": "The Family Courts Ordinance",
+            "year": 1985,
+            "description": "Establishes family courts with exclusive jurisdiction over family matters",
+            "keywords": ["family", "court", "jurisdiction", "maintenance", "dowry", "dower"],
+            "sections": [
+                {
+                    "number": "5",
+                    "title": "Jurisdiction of Family Courts",
+                    "content": "Subject to the provisions of the Muslim Family Laws Ordinance, 1961, a Family Court shall have exclusive jurisdiction to entertain, try and dispose of any suit relating to, or arising out of, all or any of the following matters..."
+                }
+            ]
+        }
+    ],
+    "precedents": [
+        {
+            "title": "Hefzur Rahman v. Shamsun Nahar Begum",
+            "year": 1999,
+            "citation": "51 DLR (AD) (1999) 172",
+            "summary": "The Appellate Division held that Muslim marriages should be registered under the Muslim Marriages and Divorces (Registration) Act, 1974 for legal recognition.",
+            "keywords": ["marriage", "registration", "muslim"]
+        },
+        {
+            "title": "Jesmin Sultana v. Mohammad Elias",
+            "year": 1997,
+            "citation": "17 BLD (AD) (1997) 4",
+            "summary": "The court established that desertion by the husband without reasonable cause entitles the wife to maintenance under Muslim Law.",
+            "keywords": ["maintenance", "desertion", "muslim"]
+        },
+        {
+            "title": "Pochon Rikssi Das v. Khuku Rani Dasi",
+            "year": 2010,
+            "citation": "15 MLR (AD) (2010) 78",
+            "summary": "The court established guidelines for Hindu divorce proceedings following the passage of Hindu Marriage Act, 2012.",
+            "keywords": ["hindu", "divorce", "marriage"]
+        }
+    ],
+    "common_issues": [
+        {
+            "question": "What are the rights of a wife during divorce in Bangladesh?",
+            "answer": "In Bangladesh, a wife's rights during divorce depend on her religion. Under Muslim law, a wife is entitled to: (1) Dower (Mahr) - both prompt and deferred, (2) Maintenance during the iddat period, (3) Custody of minor children subject to certain conditions, and (4) Any property or gifts given to her during marriage. Hindu, Christian, and Buddhist women have different rights according to their personal laws and recent legislation."
+        },
+        {
+            "question": "How can I file for divorce in Bangladesh?",
+            "answer": "The divorce process in Bangladesh varies based on religion. For Muslims, men can pronounce talaq, but must notify the Arbitration Council and attempt reconciliation for 90 days. Muslim women can seek khula (divorce by mutual consent) or file for judicial divorce under the Dissolution of Muslim Marriages Act. Hindu divorces are governed by the Hindu Marriage Act 2012. Christian divorces follow the Divorce Act 1869. All divorce proceedings should be filed with the appropriate Family Court."
+        },
+        {
+            "question": "What are the custody rights for children after divorce?",
+            "answer": "In Bangladesh, child custody after divorce is determined based on the best interests of the child, though religious laws also influence decisions. Under Muslim law, mothers typically receive custody of sons until age 7 and daughters until puberty (hizanat), after which custody may transfer to the father. The Guardians and Wards Act allows courts to make custody decisions based on the welfare of the child, regardless of religious considerations."
+        }
+    ]
+} 

@@ -1,0 +1,21 @@
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+
+# PyInstaller
+*.spec
+*.manifest
+*.spec.py
+*.manifest.py

@@ -1,0 +1,1 @@
+# Main app package for AI-Lawyer Bangladesh application 

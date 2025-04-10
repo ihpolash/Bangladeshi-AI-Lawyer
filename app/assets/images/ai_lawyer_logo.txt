@@ -1,0 +1,9 @@
+AI-Lawyer Bangladesh Logo
+
+This is a placeholder file. In a production environment, you would place a proper logo image here.
+
+To create a logo:
+1. Design a professional logo featuring scales of justice or other legal symbols
+2. Use the color scheme from the application (primary: #2e4057, secondary: #48639c, accent: #f19953)
+3. Save in PNG format with transparent background
+4. Name it "ai_lawyer_logo.png" and place in this directory 
