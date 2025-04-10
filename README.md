@@ -37,8 +37,8 @@ A professional-grade AI-powered legal consultation application tailored specific
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/AI-Lawyer.git
-cd AI-Lawyer
+git clone https://github.com/ihpolash/Bangladeshi-AI-Lawyer.git
+cd Bangladeshi-AI-Lawyer
 ```
 
 2. Install required dependencies:
@@ -79,6 +79,6 @@ streamlit run app.py
 
 MIT License
 
-## Contributors
+  ## Contributors
 
-- [Your Name](https://github.com/yourusername) 
+  - [Ihpolash](https://github.com/ihpolash) 
